@@ -1,2 +1,2 @@
 # microposts
-Simple Posts application using json-server, webpack, babel and bootswatch
+Simple Posts REST application using json-server, babel webpack and bootswatch
